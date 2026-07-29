@@ -2,33 +2,10 @@
 __pycache__/
 *.pyc
 *.pyo
-*.egg-info/
 
-# Virtual environments
-.venv/
+# Virtual environment
 venv/
-env/
-
-# Environment variables
-.env
-.env.*
-!.env.example
-
-# Editor directories
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
+.venv/
 
 # Gemini
 .gemini/
