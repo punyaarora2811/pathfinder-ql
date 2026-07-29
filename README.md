@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🤖 Q-Learning GridWorld</h1>
+  <h1>🤖 Pathfinder QL</h1>
   <p><strong>A from-scratch implementation of Q-learning for navigating randomly generated 2D grid environments.</strong></p>
   
   [![Python](https://img.shields.io/badge/Python-3.8--3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -12,9 +12,9 @@
 
 ## 🌟 Overview
 
-GridWorld is a custom-built, lightweight Reinforcement Learning environment. An agent learns to reach a target destination while avoiding randomly generated obstacles. This project uses pure Q-learning (tabular reinforcement learning) without relying on external RL frameworks.
+Pathfinder QL is a custom-built, lightweight Reinforcement Learning environment. An agent learns to reach a target destination while avoiding randomly generated obstacles. This project uses pure Q-learning (tabular reinforcement learning) without relying on external RL frameworks.
 
-![Q-Learning GridWorld Demo](media/git.gif)
+![Pathfinder QL Demo](media/git.gif)
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ GridWorld is a custom-built, lightweight Reinforcement Learning environment. An 
 ## 📂 Project Structure
 
 ```text
-gridworld/
+Pathfinder_QL/
 ├── media/
 │   └── git.gif                   # Demonstration GIF
 ├── src/
@@ -60,8 +60,8 @@ Follow these instructions to set up and run the Q-Learning agent on your local m
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/punyaarora2811/gridworld.git
-cd gridworld
+git clone https://github.com/punyaarora2811/pathfinder-ql.git
+cd Pathfinder_QL
 ```
 
 2. Create and activate a virtual environment:
