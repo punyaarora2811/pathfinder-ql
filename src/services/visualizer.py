@@ -4,9 +4,9 @@ import sys
 import numpy as np
 import pygame
 
-from src.environment import Environment, State
-from src.agent import Agent
-from src.trainer import Trainer
+from src.models.environment import Environment, State
+from src.models.agent import Agent
+from src.services.trainer import Trainer
 
 # Layout and color constants
 MARGIN = 10

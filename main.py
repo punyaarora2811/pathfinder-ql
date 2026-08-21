@@ -1,9 +1,9 @@
 # Import core components
-from src.environment import Environment
-from src.agent import Agent
-from src.trainer import Trainer
-from src.visualizer import Visualizer
-from src.config import load_config
+from src.models.environment import Environment
+from src.models.agent import Agent
+from src.services.trainer import Trainer
+from src.services.visualizer import Visualizer
+from src.core.config import load_config
 
 
 def main():

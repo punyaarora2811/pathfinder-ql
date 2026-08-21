@@ -1,7 +1,7 @@
 # Load and parse configuration from config.yml file
 import yaml
 from dataclasses import dataclass
-from src.environment import State
+from src.models.environment import State
 
 # Environment configuration dataclass
 @dataclass

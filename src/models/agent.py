@@ -2,7 +2,7 @@
 import random
 import numpy as np
 
-from src.environment import State
+from src.models.environment import State
 
 
 class Agent:

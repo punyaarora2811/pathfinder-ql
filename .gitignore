@@ -1,11 +1,6 @@
-# Python
+.env
+venv/
 __pycache__/
 *.pyc
-*.pyo
-
-# Virtual environment
-venv/
-.venv/
-
-# Gemini
-.gemini/
+.pytest_cache/
+.DS_Store

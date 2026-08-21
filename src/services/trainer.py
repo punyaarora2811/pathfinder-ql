@@ -1,8 +1,8 @@
 # Training loop orchestration with episode management
 import numpy as np
 
-from src.environment import Environment, State
-from src.agent import Agent
+from src.models.environment import Environment, State
+from src.models.agent import Agent
 
 
 class Trainer:
