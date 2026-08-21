@@ -88,6 +88,8 @@ pytest tests/
 
 ## 🎥 Demo
 
+![Pathfinder Q-Learning Demo](media/git.gif)
+
 1. **Initialize the app:** Run `run.bat` or `run.sh` to initialize the visualizer.
 2. **Watch the agent:** Watch the agent start exploring randomly, discover the goal, and quickly optimize its path using the Q-Table.
 3. **Controls:** Use `SPACE` to pause/resume, `UP` to increase speed, and `DOWN` to decrease speed during training.
